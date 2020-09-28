@@ -8,13 +8,19 @@ stockProtfolio.json
   the users stock portfolio is stored in this file
   the current file has an example of what an indiviual's stock portfolio would look like (this my personal portfolio!)
 
-Iterate Through Color Wheel
 
-![](demo/ScrollColorWheel.gif)
+Refresh Stock
 
-Insert Add/Edit Stock
 
-Insert Remove Stock
+Add/Edit Stock
 
-insert ticker button details here
+![](demo/AddEditStock.gif)
+
+Remove Stock
+
+![](demo/RemoveStock.gif)
+
+Stock Button
+
+![](demo/StockButton.gif)
 
