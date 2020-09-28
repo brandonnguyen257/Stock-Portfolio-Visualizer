@@ -14,13 +14,13 @@ Refresh Stock
 
 Add/Edit Stock
 
-![](demo/AddEditStock.gif)
+![](Demo/AddEditStock.gif)
 
 Remove Stock
 
-![](demo/RemoveStock.gif)
+![](Demo/RemoveStock.gif)
 
 Stock Button
 
-![](demo/StockButton.gif)
+![](Demo/StockButton.gif)
 
