@@ -14,7 +14,7 @@ Refresh Stock
 
 Add/Edit Stock
 
-![](Demo/AddEditStock.gif)
+![](Demo/AddStock.gif)
 
 Remove Stock
 
