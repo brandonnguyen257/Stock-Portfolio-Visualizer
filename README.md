@@ -1,3 +1,10 @@
+<b>Project Inspiration</b>
+
+This projects was inspired by a popular brokerage application, Robinhood. The goal of this project
+was to see if I could recreate a similar user experience with some additional features.
+
+<b>Files</b>
+
 stock.py
   is a file that stores a Stock class and a StockPortfolio class
 
@@ -8,20 +15,26 @@ stockProtfolio.json
   the users stock portfolio is stored in this file
   the current file has an example of what an indiviual's stock portfolio would look like (this my personal portfolio!)
 
+<b>Future Implementation</b>
 
-Refresh Stock
+For future features, I want to add dividened history details about companies, something Robinhood does not provide.
+In addition, I want to add graphs to plot a stocks price history
+
+<b> Current Features</b>
+
+<b>Refresh Stock</b>
 
 ![](Demo/Refresh.gif)
 
-Add/Edit Stock
+<b>Add/Edit Stock</b>
 
 ![](Demo/AddStock.gif)
 
-Remove Stock
+<b>Remove Stock</b>
 
 ![](Demo/RemoveStock.gif)
 
-Stock Button
+<b>Stock Button</b>
 
 ![](Demo/StockButton.gif)
 
