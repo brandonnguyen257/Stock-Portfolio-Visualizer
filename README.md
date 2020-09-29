@@ -11,6 +11,7 @@ stockProtfolio.json
 
 Refresh Stock
 
+![](Demo/Refresh.gif)
 
 Add/Edit Stock
 
