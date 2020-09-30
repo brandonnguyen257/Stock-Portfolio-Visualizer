@@ -204,21 +204,6 @@ class Stock:
             for x in tempList:
                 self.details[x]="N/A"
             
-        
-
-            
-
-
-        # self.details["dividendYield"]=data["dividendYield"]
-        # print(data["dividendYield"])
-        # self.details["city"]=data["city"]
-        # self.details["state"]=data["state"]
-        # self.details["sector"]=data["sector"]
-        # self.details["marketCap"]=data["marketCap"]
-        # self.details["fullTimeEmployees"]=data["fullTimeEmployees"]
-        # self.details["averageVolume"]=data["averageVolume"]
-
-
 
 
     def getTotalReturn(self):
