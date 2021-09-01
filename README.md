@@ -1,6 +1,6 @@
 <b>Project Inspiration</b>
 
-This projects was inspired by a popular brokerage application, Robinhood. The goal of this project
+This project was inspired by a popular brokerage application, Robinhood. The goal of this project
 was to see if I could recreate a similar user experience with some additional features.
 
 <b>Files</b>
